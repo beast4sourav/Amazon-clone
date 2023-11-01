@@ -94,6 +94,11 @@ span{
 .nav-cart i{
     font-size: 25px;
 }
+.nav-cart a{
+    text-decoration: none;
+    color: white;
+    font-size: 0.85rem;
+}
 .nav-cart{
     font-size: 0.85rem;
     font-weight: 700;
@@ -242,3 +247,69 @@ ul a{
 .copy-right{
     padding: 5px;
 }
+ /* Cart section*/
+.main-con{
+    height: 500px;
+    background-color: #e0e7e7;
+    padding-top: 30px;
+}
+ .main-box{
+    background-color:white;
+    display: flex;
+    color: #1a1919;
+    width: 70%;
+    height: 300px;
+    margin-left: 25px;
+    padding-top: 20px;
+    
+ }
+
+ .main-box a{
+    color:#04778b;
+    font-size: 0.95rem;
+ }
+ .main-img{
+    width: 400px;
+    height: 300px;
+    background-repeat: no-repeat;
+ }
+ .main-cont{
+    font-size: 1.1rem;
+    color: #0f1111;
+    margin-top: 50px;
+    margin-left: 20px;
+ }
+ button{
+    background-color: #ffd814;
+    font-size: 1rem;
+   font-weight: 100;
+    border: none;
+    border-radius: 10px;
+    height: 30px;
+    margin-top: 20px;
+ }
+ #but{
+    background-color: white;
+    border: solid 0.3px;
+    margin-left: 10px;
+ }
+ .con-1{
+    width: 70%;
+    height: 20px;
+ }
+ .main-rmp{
+    width: 70%;
+    height: 80px;
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 20px;
+ }
+ .main-rem {
+    margin-left: 20px;
+    background-color:#e0e7e7 ;
+ }
+ .para{
+    margin-left: 20px;
+    margin-top: 15px;
+    font-size: 0.75rem;
+ }
